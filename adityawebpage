@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <center><H1>ADITYA DEGREE COLLEGE</H1>
+    <img src="WhatsApp Image 2024-12-24 at 13.23.29_0b798ed2.jpg" alt="college logo/symbol" ></center>
+    <marquee  direction="right" style="background-color: yellow;">Aditya Degree College</marquee>
+    <div>
+       <center> <h1>About College</h1></center>
+        <span style=" color: red;"><p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Obcaecati vitae tempore cumque corporis mollitia inventore aut rem illum aliquam debitis suscipit nesciunt qui perspiciatis, repellendus veritatis quidem? Quidem, aperiam molestias.</p>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iste tempora et quod ad ex quisquam omnis, rerum placeat assumenda. Temporibus soluta labore accusantium totam, rem odio voluptatibus obcaecati. Reprehenderit, quae.
+        Beatae tenetur sapiente fuga numquam, officia porro earum perspiciatis cupiditate ex totam explicabo exercitationem repellendus! Inventore nulla qui dolorum, ducimus soluta voluptatem et maxime consequatur perspiciatis nisi, vero officia porro.
+        Eum quas recusandae sapiente dignissimos omnis sint cumque, itaque eos? Incidunt similique beatae iusto repellat dolorem sapiente perspiciatis dolore, asperiores aspernatur eum quia, nesciunt quaerat deserunt est libero culpa distinctio?</p></span>
+    </div>
+    <h2>Courses offered by Aditya Degree college</h2>
+    <ol>
+        <ul>
+            <li>BCA</li>
+            <li>AIR</li>
+            <li>BBA</li>
+            <li>MECS</li>
+            <li>MPCS</li>
+        </ul>
+    </ol>
+    <center><video src="WhatsApp Video 2024-12-24 at 13.48.34_d8b4956b.mp4" controls width="500px" height="500px"></video></center>
+    <caption>Time Table</caption>
+    <table border="1px solid ">
+        <th>DATE</th>
+        <th>TIME</th>
+        <th>GROUP</th>
+        <th>SUBJECT</th>
+        <tr>
+            <td>03-12-2024</td>
+            <td>2:00-5:00pm</td>
+            <td>BCA</td>
+            <td>MLUP</td>
+        </tr>
+        <tr>
+            <td>04-12-2024</td>
+            <td>2:00-5:00pm</td>
+            <td>BCA</td>
+            <td>DI</td>
+        </tr>
+        <tr>
+            <td>05-12-2024</td>
+            <td>2:00-5:00pm</td>
+            <td>BCA</td>
+            <td>CS</td>
+        </tr>
+        <tr>
+            <td>06-12-2024</td>
+            <td>2:00-5:00pm</td>
+            <td>BCA</td>
+            <td>IOT</td>
+        </tr>
+        <tr>
+            <td>07-12-2024</td>
+            <td>2:00-5:00pm</td>
+            <td>BCA</td>
+            <td>MAD</td>
+        </tr>
+        <tr>
+            <td>09-12-2024</td>
+            <td>2:00-5:00pm</td>
+            <td>BCA</td>
+            <td>PC&H</td>
+        </tr>
+    </table>
+    <br>
+    
+  <center> <CAPtion> <b>FeedBack</b></CAPtion>
+     <form >
+        <label for="username:">Username</label>
+        <input type="text" placeholder="enter your name" required><br><br>
+        Email:<input type="email" placeholder="email" required>
+        <p>give us your opinion about the page</p>
+        <textarea  cols="30" rows="10"></textarea>
+        <br>
+        <button onclick="alert('Thank you for submiting your response')">Submit</button>
+    </form>
+</center>
+</body>
+</html>
